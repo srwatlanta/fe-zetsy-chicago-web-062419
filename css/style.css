@@ -7,7 +7,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif;
+	font-family: 'Times New Roman', serif; 
 }
 
 .wrapper {
@@ -26,6 +26,10 @@ h1 {
     border-bottom: 1px solid #ccc;
     color: rgb(152,173,166);
     text-decoration: none;
+}
+
+.main-image {
+  border: 5px rgb(152,173,166) solid;
 }
 
 /* Write all remaining styles here */

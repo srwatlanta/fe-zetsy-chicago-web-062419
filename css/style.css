@@ -37,4 +37,12 @@ h2 {
   font-size: 2em;
 }
 
+.press img:hover {
+  border: 5px rgb(111,127,122) solid;
+}
+
+.press img {
+  padding: 1px;
+}
+
 /* Write all remaining styles here */
